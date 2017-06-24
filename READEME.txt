@@ -1,1 +1,1 @@
-returns the frequency of ASCII char in a .txt, .html, etc.
+returns the frequency of ASCII char(s) in a .txt, .html, etc.
