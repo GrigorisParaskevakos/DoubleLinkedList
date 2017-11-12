@@ -1,6 +1,6 @@
 using System;
 using System.IO;
-/*
+/*  Author: Paraskevakos G. | 2016
 *   !COMMENTS ARE IN GREEK!
 */
 // Το πρόγραμμα υλοποιεί μία δυναμική λίστα διπλής κατεύθυνσης 
